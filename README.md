@@ -8,7 +8,7 @@ It's a collaborative project between:
 3. Yashasav Prajapati
 
 ## Introduction
-The project aims to detect deepfake images. The project challenge was taken from here.
+The project aims to detect deepfake images. We used tensorflow and keras to build the model. Inorder to train the model efficiently, we used early stopping and model checkpointing. We also used data augmentation[this was done locally] to increase the size of the dataset.
 
 ## Dataset and Problem Statement
 The dataset and problem statement was taken from the following link:
